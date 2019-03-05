@@ -35,15 +35,21 @@ Given relative freedom to pursue projects which personally interest me, I have t
 Duties include network configuration and troubleshooting, VM management, software design, ethernet cabling, VPN configuration, etc.
 
 ## Projects
+### [FXGames (Java FX Games)](https://github.com/amcpeake/FXGames) | February 2019 - Ongoing
+FXGames is a small collection of simple games written in Java, using JavaFX for graphics.
+Used as a more entertaining means of improving my Java/JavaFX knowledge.
+
+Currently includes Pong
+
 ### [Python Development Environment (PyDE)](https://github.com/amcpeake/PyDE) | January 2019-Ongoing
 PyDE began as an online Python IDE, but has evolved into an expansive multi-language IDE.
 It currently consists of a single ~300 line script, and has facilitated my mastery of Bash.
 This has been used for CodePoints, however I also plan to integrate it into my personal website as well as my discord bot, Tony Spark.
 
-### [CodePoints](https://github.com/CodePoints) | January 2019-Ongoing
+### [CodePoints](https://github.com/amcpeake/CodePoints) | January 2019-Ongoing
 CodePoints is an add-on to PyDE which functions as a programming-based game. Users are given a series of challenges, and must write code to solve them. Though the application is currently limited in scope, it is an ongoing project, and expansion is to be expected.
 
-### [Python File Browser (PyFib)](https://github.com/PyFib) | November 2018-Ongoing
+### [Python File Browser (PyFib)](https://github.com/amcpeake/PyFib) | November 2018-Ongoing
 My website is run off of a Raspberry Pi running at home, and while I was using it as a local network drive (NFS and Samba), I wanted to extend the utility of the network drive with the goal of never having to carry a USB drive with me again. The result is PyFib, which will eventually be implemented on my website and server as a web portal for personal cloud storage.
 
 ### [Personal Website](https://www.amcpeake.com) | July 2018-Ongoing
@@ -54,7 +60,7 @@ IPList, written while working for the Government of Canada, was a ~200 line bash
 
 In the end, this became a fundamental piece of software for IT administrators in the environment, and remains in use.
 
-### [Tony Spark (TSpark)](https://github.com/TSpark) | January 2018-Ongoing
+### [Tony Spark (TSpark)](https://github.com/amcpeake/TSpark) | January 2018-Ongoing
 Tony Spark is a hobby project, created by myself and [@ehrenjn](https://github.com/ehrenjn). It's only intended for use in our personal discord server, but serves as a catalogue of various interesting ideas implementing in python. This includes cloud storage, a bandcamp/soundcloud downloader, and an enhanced search function (Discord's built-in search function leaves something to be desired) to name a few. As this is a hobby project, the quality of code/documentation is sub-standard.
 
 ## Skills
@@ -66,6 +72,7 @@ Tony Spark is a hobby project, created by myself and [@ehrenjn](https://github.c
 * JavaScript | 10 months
 * C | 8 months
 * M68K Assembly | 8 months
+* Java | 2 months
 
 ### Networking Protocols
 * EIGRP
