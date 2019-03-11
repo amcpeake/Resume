@@ -39,7 +39,7 @@ Duties include network configuration and troubleshooting, VM management, softwar
 FXGames is a small collection of simple games written in Java, using JavaFX for graphics.
 Used as a more entertaining means of improving my Java/JavaFX knowledge.
 
-Currently includes Pong and Atari Breakout
+Currently includes Pong, Atari Breakout and Snake.
 
 ### [Python Development Environment (PyDE)](https://github.com/amcpeake/PyDE) | January 2019-Ongoing
 PyDE began as an online Python IDE, but has evolved into an expansive multi-language IDE.
