@@ -42,7 +42,7 @@ Used as a more entertaining means of improving my Java/JavaFX knowledge.
 
 Includes Pong, Atari Breakout, Snake, Chess, etc.
 
-### Bear Metal | July 2019 - November 2019
+### [Bear Metal](https://github.com/amcpeake/Bear-Metal) | July 2019 - November 2019
 Between April 2019 and December 2019, I was employed by the Canadian Center for Cyber Security (CCCS). 
 
 Within the CCCS are several teams devoted to malware analysis and malware reverse engineering. In a typical scenario, malware analysis is done within a virtual machine, for isolation and convenience of deployment. However a problem arises when you are attempting to analyze malware sophisticated enough to shut itself off when it knows it is being analyzed in a virtual environment. 
