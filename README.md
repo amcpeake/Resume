@@ -80,6 +80,7 @@ Tony Spark is a hobby project, created by myself and [@ehrenjn](https://github.c
 ## Skills
 ### Programming Languages
 | Language | Total time of practical use |
+| -------- | --------------------------- |
 | C++ | 4 years |
 | Bash | 3 years |
 | Python | 2 years |
