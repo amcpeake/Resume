@@ -70,12 +70,12 @@ My website is run off of a Raspberry Pi running at home, and while I was using i
 My personal website mostly serves as my testing grounds for various projects. There is much more going on in the background on hidden pages than is displayed from the main url. That said it serves as a view of some of my smaller hobby projects (i.e. meme generator)
 
 ### IPList | May 2018 - August 2018
-IPList, written while working for the Government of Canada, was a ~200 line bash script which served a purely utilitarian purpose. Understanding of the current network address space was lacking, (i.e. which ip addresses were used) and IPList was created to remedy this. Initially it only pinged each IP in a series of given subnets to determine if they were used or not. However, I realized that by creating a non-sudo account on each device I could gather further information, such as uptime, available storage, RAM, hostname, etc.
+IPList, written while working for the Government of Canada, is a ~200 line bash script for gathering info about devices on the local network. Understanding of the office network address space was lacking, (i.e. which ip addresses were used) and IPList was created to remedy this. Initially it only pinged each IP in a series of given subnets to determine if they were used or not. However, I realized that by creating a non-sudo account on each device I could gather further information, such as uptime, available storage, RAM, hostname, etc.
 
 In the end, this became a fundamental piece of software for IT administrators in the environment, and remains in use.
 
 ### [Tony Spark (TSpark)](https://github.com/amcpeake/TSpark) | January 2018 - Ongoing
-Tony Spark is a hobby project, created by myself and [@ehrenjn](https://github.com/ehrenjn). It's only intended for use in our personal discord server, but serves as a catalogue of various interesting ideas implementing in python. This includes cloud storage, a bandcamp/soundcloud downloader, and an enhanced search function (Discord's built-in search function leaves something to be desired) to name a few. As this is a hobby project, the quality of code/documentation is sub-standard.
+Tony Spark is a hobby project, created by myself and [@ehrenjn](https://github.com/ehrenjn). It's only intended for use in our personal discord server, but serves as a catalogue of various interesting ideas implemented in python. This includes cloud storage, a bandcamp/soundcloud downloader, and an enhanced search function (Discord's built-in search function leaves something to be desired) to name a few.
 
 ## Skills
 ### Programming Languages
